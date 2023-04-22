@@ -1,6 +1,5 @@
 ---
 title: 악성 파일에 사용된 WScript Object
-author: dotaky99
 date: 2023-03-05 16:31:00 +0900
 categories: [Malware, Theory]
 tags: [wscript, object, xmlhttp, stream]
